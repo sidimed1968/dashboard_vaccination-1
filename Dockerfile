@@ -13,7 +13,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copier le reste des fichiers de l'application
 COPY . .
 
-# Exposer le port sur lequel l'application Flask écoute
+# Exposer le port sur lequel l'application écoute
 EXPOSE 8000
 
 # Commande pour exécuter l'application
