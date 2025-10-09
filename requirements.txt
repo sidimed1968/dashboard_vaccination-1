@@ -5,3 +5,4 @@ folium==0.14.0
 plotly==5.18.0
 gunicorn==21.2.0
 geopy==2.4.1
+dash==2.14.1
